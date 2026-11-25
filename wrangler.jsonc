@@ -1,0 +1,1 @@
+{"$schema":"node_modules/wrangler/config-schema.json","name":"redpacketcover","main":"worker.js","compatibility_date":"2026-11-25","assets":{"directory":"./public","binding":"ASSETS","run_worker_first":["/api/*"]},"kv_namespaces":[{"binding":"CLICKS","id":"be3f5acbad454c2baa3fc30ca578dfa9"}],"observability":{"enabled":true}}
